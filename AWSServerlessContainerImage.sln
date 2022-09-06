@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWSServerlessContainerImage", "AWSServerlessContainerImage\AWSServerlessContainerImage.csproj", "{ADB4CE6C-31BB-4142-ACBF-330E7950A782}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWSServerlessContainerImage.Tests", "AWSServerlessContainerImage.Tests\AWSServerlessContainerImage.Tests.csproj", "{E96543CC-2C8D-4F43-B1E3-12DD0F4C6A09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADB4CE6C-31BB-4142-ACBF-330E7950A782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADB4CE6C-31BB-4142-ACBF-330E7950A782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADB4CE6C-31BB-4142-ACBF-330E7950A782}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADB4CE6C-31BB-4142-ACBF-330E7950A782}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E96543CC-2C8D-4F43-B1E3-12DD0F4C6A09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E96543CC-2C8D-4F43-B1E3-12DD0F4C6A09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E96543CC-2C8D-4F43-B1E3-12DD0F4C6A09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E96543CC-2C8D-4F43-B1E3-12DD0F4C6A09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D803DFC2-CE6D-4850-BB90-C472FB15FDB1}
+	EndGlobalSection
+EndGlobal
